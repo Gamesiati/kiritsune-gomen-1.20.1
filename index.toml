@@ -129,6 +129,11 @@ hash = "039a49f9812f49e8b15e13cb8901120701f4e65ad64ed266130eec1ec357f410"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "bb831e6e9b6a572a7ebccaefff6358cdba9053fc5a647974e4d5df85be0f10c4"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "e03fc0b0c151c5c072ac399d27b5c4268a093c41be73f3b1578d050bb49211f3"
 metafile = true
