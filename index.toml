@@ -189,6 +189,11 @@ hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
 metafile = true
 
 [[files]]
+file = "mods/toggle-item-frames.pw.toml"
+hash = "2568a0352dad7a43e4f855e5f0e58a9788ed7806e1a0f3e8f7526fc648e7fa25"
+metafile = true
+
+[[files]]
 file = "mods/unilib.pw.toml"
 hash = "a5f9299d97fa94f981726417671569eea366d283720cd08e7e4e20c07de0bb60"
 metafile = true
