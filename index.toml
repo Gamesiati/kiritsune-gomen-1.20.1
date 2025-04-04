@@ -24,6 +24,11 @@ hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "45f268d205841b54991ff5a25e126f2ab314ff814f6f0ddeb26ac41ead4a7a09"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
 metafile = true
