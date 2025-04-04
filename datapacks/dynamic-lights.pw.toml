@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "dynamiclights-v1.8.5-mc1.17x-1.21x-datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7YjclEGc/versions/yCdCPMZa/dynamiclights-v1.8.5-mc1.17x-1.21x-datapack.zip"
+hash-format = "sha512"
+hash = "532a03c511da7886562417e6f05e2a9d5ce3ad504622226a0abe61a1c75edc04d963103a8cf5a1c04198fe9c00962b890a19496f40a258605ca42d572a0c7ad8"
+
+[update]
+[update.modrinth]
+mod-id = "7YjclEGc"
+version = "yCdCPMZa"
