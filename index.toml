@@ -6,7 +6,7 @@ hash = "feb87a2e0c305de3464cc44077da5393c52d8ca6362d37427157d04ec6f4510d"
 
 [[files]]
 file = "README.md"
-hash = "57bd2dead92aa13b59f9d55d4d4777333ae638ebd04e1019a07857c7ecf0c5ae"
+hash = "dbc0a61e77a921f017f7d0a0d25d9b2db5a020a15c358668868feb1dbdd51ad8"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -31,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
 metafile = true
 
 [[files]]
