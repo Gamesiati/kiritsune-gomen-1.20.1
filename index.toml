@@ -109,6 +109,11 @@ hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "97aa0bb7bc113c8f1cbde3ce1b50d9180dd6e4df6c81860b939572f8948e3026"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
 metafile = true
