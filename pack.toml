@@ -1,0 +1,12 @@
+name = "Kiritsune Gomen 1 . 20 . 1"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "63b731cc7c064be3e20eee698d627c32c814f4f79ec542e544884f0f462e781c"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "1.20.1"
