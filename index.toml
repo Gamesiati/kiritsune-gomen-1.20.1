@@ -14,6 +14,11 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "c4176fac05e1024f0badb12610d7930085ec526b3f208eab8f0a61d7773bb4f8"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "878df043c899351a810b3a2c1e89b621a9ed8ab35769358aed49866367f930c7"
 metafile = true
 
 [[files]]
