@@ -69,6 +69,11 @@ hash = "b9ccdada3af888348b8c8eb757ea3c528bd20db5f0beef533fd6c5eee651faa6"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "1950cc9e81e89586672663fb9b2c64b5770b3c6bedb2d4893165b1b7063899f2"
+metafile = true
+
+[[files]]
 file = "mods/geyser.pw.toml"
 hash = "17d2e77f9714a26b214082303c3a113c36c2d833213c8953e9adb47af5723104"
 metafile = true
