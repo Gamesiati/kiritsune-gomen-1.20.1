@@ -14,6 +14,11 @@ hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
@@ -76,4 +81,14 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
