@@ -9,11 +9,6 @@ file = "README.md"
 hash = "57bd2dead92aa13b59f9d55d4d4777333ae638ebd04e1019a07857c7ecf0c5ae"
 
 [[files]]
-file = "mods/appleskin.pw.toml"
-hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "c4176fac05e1024f0badb12610d7930085ec526b3f208eab8f0a61d7773bb4f8"
 metafile = true
@@ -89,11 +84,6 @@ hash = "279a5891055ba9ba7e5129324e0c4f1ba5299ceefcba2511e96a91bf51d072ea"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
 metafile = true
@@ -101,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
