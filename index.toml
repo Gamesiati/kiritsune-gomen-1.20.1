@@ -14,6 +14,16 @@ hash = "977aac6c822343e328df984b939eaba3b8f58d5a3181b7cd6fd6032fc8913034"
 metafile = true
 
 [[files]]
+file = "datapacks/veinminer-enchantment.pw.toml"
+hash = "7a655fa15fb441d331044cfe933f4b140abdcf095c0d69f70cc80d704fb7d1ef"
+metafile = true
+
+[[files]]
+file = "datapacks/veinminer.pw.toml"
+hash = "042d273e0873bc9c33fffebef698464246824858a31f1a4ed6e6785b704491eb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true

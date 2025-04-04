@@ -1,0 +1,13 @@
+name = "Veinminer"
+filename = "Veinminer-1.2.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OhduvhIc/versions/8cEJouzY/Veinminer-1.2.4.zip"
+hash-format = "sha512"
+hash = "69c40105c83c7d537925aaa48f629c0de705bb8a4253c603342c9c56a36aadd757739838df50c4cdf3702040112406a60fb2d91cfd5278fe952c160be7379a28"
+
+[update]
+[update.modrinth]
+mod-id = "OhduvhIc"
+version = "8cEJouzY"
