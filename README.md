@@ -1,1 +1,1 @@
-# kiritsune-gomen-1.20.1
+# kirisute-gomen-1.20.1
