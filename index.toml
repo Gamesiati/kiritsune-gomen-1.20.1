@@ -189,6 +189,11 @@ hash = "a5f9299d97fa94f981726417671569eea366d283720cd08e7e4e20c07de0bb60"
 metafile = true
 
 [[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "17f54e17c7274aa20b5392825a2b1c756b3bb4e3c655954bee501eda2cd3e91b"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
