@@ -34,6 +34,16 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "b9ccdada3af888348b8c8eb757ea3c528bd20db5f0beef533fd6c5eee651faa6"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "17d2e77f9714a26b214082303c3a113c36c2d833213c8953e9adb47af5723104"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
