@@ -29,6 +29,11 @@ hash = "45f268d205841b54991ff5a25e126f2ab314ff814f6f0ddeb26ac41ead4a7a09"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
 metafile = true
