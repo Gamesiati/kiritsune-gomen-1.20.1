@@ -74,6 +74,11 @@ hash = "f5d0d082d4d3064da7dee4ad1881788f4782a804a2e1b034c2a903e2b68b97eb"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "446a273b3868578eb7f511b585a2648519a3487de209557b222910e53872b72c"
+metafile = true
+
+[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "7c6243cb0903bb8f900eaa0d64b2cd34d98630780065bc2d2b05e4d19fc2ce32"
 metafile = true
