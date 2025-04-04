@@ -14,6 +14,11 @@ hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "4945c0aeeb4fdf7179e2419c2577780bae35bfa042cf2bd52885f6faf80406f7"
 metafile = true
@@ -104,6 +109,11 @@ hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "3bf0bdb21b300641c64e8d9a86a6af94105659432d9a8c14584668845db28c07"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
 metafile = true
@@ -126,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "ace9ce441fc72217675c9192315d9126e200341491f65058cf461f7e5a49a3e6"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "645622d16ed124e89e859ff3bf3df11503375d09d0970c3aa38d03bf2bdb3fdd"
 metafile = true
 
 [[files]]
