@@ -39,6 +39,11 @@ hash = "31c9ef087418af49a6e3be6824a34a941f8f602482284d1c674a37617e58a27c"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "87fd017cc4f376f9836083a871e353001ecf2de77bcbbb0b20fcda54c2c6c890"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
 metafile = true
@@ -111,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "97aa0bb7bc113c8f1cbde3ce1b50d9180dd6e4df6c81860b939572f8948e3026"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "b0c303d60ec1422db5fc6556b77a3ecbbfbb389bb9dba2e47edb9bc4aa30bc47"
 metafile = true
 
 [[files]]
