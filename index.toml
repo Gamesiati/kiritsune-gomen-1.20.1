@@ -206,6 +206,11 @@ hash = "ace9ce441fc72217675c9192315d9126e200341491f65058cf461f7e5a49a3e6"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
