@@ -171,6 +171,11 @@ hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "febe90046102708c065c23a8577039c1dc6786de1ed0f0378e4647b22669659e"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
