@@ -30,3 +30,7 @@ Light emissions are also available from:
 * Veinminer and Veinminer Enchantment  
 Allows mining a single ore to break the full vein of the same ore.
 Limited to tools enchanted with it.
+
+## Known Geyser Issues
+* Stripping logs does not work when holding a shield in the off-hand.  
+* When using a stonecutter, shift-clicking does not work and requires single uses.
