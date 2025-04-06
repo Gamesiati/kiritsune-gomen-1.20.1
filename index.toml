@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "server.properties.pw.toml"
-hash = "f2ecb9209a7345bc9758f0365638b2144b227efbfdb2f32004806b344d87dd91"
+hash = "86c17b8104d7ed3a3fd57a9e6983831418e054a702f573558562d9b65bd32d4c"
 metafile = true
 
 [[files]]
