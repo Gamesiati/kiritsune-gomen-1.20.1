@@ -261,6 +261,12 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
+file = "options.txt.pw.toml"
+hash = "93228cfe61f6ece6d35e1e1dbb770cd99d6fd6c3712c691ca472c76ea7306e52"
+metafile = true
+preserve = true
+
+[[files]]
 file = "server.properties.pw.toml"
 hash = "86c17b8104d7ed3a3fd57a9e6983831418e054a702f573558562d9b65bd32d4c"
 metafile = true

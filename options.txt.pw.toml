@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://github.com/Gamesiati/kirisute-gomen-mc/raw/refs/heads/main/files/options.txt"
+hash-format = "sha512"
+hash = "8786228900cf9d678083681a030e5a284127401af48d88f3897c0208edb566635c74819e6605cc6a3838775b949bbfb448b93d9f7095b382fb2b18a332dd3583"
