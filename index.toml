@@ -146,6 +146,11 @@ hash = "3bf0bdb21b300641c64e8d9a86a6af94105659432d9a8c14584668845db28c07"
 metafile = true
 
 [[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "f6e1752471b0eb6445ded46d748b876db3b3cda2e3c5f2195a256d612d2fd55a"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
 metafile = true
