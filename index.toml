@@ -61,6 +61,11 @@ hash = "84010019ebe7f20274f0c6c55aa3dd254e335098f006bed0d4f0a189ac12fa64"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "a598c30d51764141713c3871c44497bc420d602f9a378c28fc8f49c269fac386"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "853087309c5b08115038d1f349928cd95370926956ae7a293b810f2b2711e7f3"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "645622d16ed124e89e859ff3bf3df11503375d09d0970c3aa38d03bf2bdb3fdd"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "ff26c7c9007bb25a092b1b7ed93c66973610fe0eeebee1f8f956dbdad5d5fe85"
 metafile = true
 
 [[files]]
