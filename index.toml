@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "feb87a2e0c305de3464cc44077da5393c52d8ca6362d37427157d04ec6f4510d"
-
-[[files]]
-file = "README.md"
-hash = "dbc0a61e77a921f017f7d0a0d25d9b2db5a020a15c358668868feb1dbdd51ad8"
-
-[[files]]
 file = "datapacks/dynamic-lights.pw.toml"
 hash = "977aac6c822343e328df984b939eaba3b8f58d5a3181b7cd6fd6032fc8913034"
 metafile = true
