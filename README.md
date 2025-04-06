@@ -1,5 +1,5 @@
 # kirisute-gomen-mc
-## Server-side mods/datapacks that affect gameplay
+## Server-side mods/datapacks that affect gameplay (Non-vanilla/Vanilla+ features)
 
 ### Mods
 * Crops Love Rain  
@@ -8,6 +8,10 @@ Crops grow faster in rain.
 Subtle-ish overhaul of vanilla Overworld biomes.  
 * Geyser and Floodgate  
 Allows Bedrock players to join the Java server. Java mechanics are used, and some minor bugs occur for Bedrock users.  
+* KleeSlabs  
+"Break only the half of a double slab that you're looking at."  
+* Monsters in the Closet  
+(Java only) Highlights nearby mobs that prevent you from sleeping.  
 * NetherPortalFix  
 * RightClickHarvest  
 (Java only) Right click to harvest crops and replant them. Using a hoe covers a larger area.  
