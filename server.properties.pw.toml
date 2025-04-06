@@ -1,0 +1,8 @@
+name = "server.properties"
+filename = "server.properties"
+side = "server"
+
+[download]
+url = "https://github.com/Gamesiati/kirisute-gomen-mc/raw/refs/heads/main/files/server.properties"
+hash-format = "sha512"
+hash = "27fec4abdd24498ed339dcbe3b2da4b52df72d0d3593550bc2a727cd1a6595ec5dd2f518719b722f1efb23417c70b15f198a68f4187cfacf001d347fee117b9e"
