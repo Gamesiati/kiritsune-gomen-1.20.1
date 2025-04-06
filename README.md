@@ -14,7 +14,9 @@ Allows Bedrock players to join the Java server. Java mechanics are used, and som
 (Java only) Highlights nearby mobs that prevent you from sleeping.  
 * NetherPortalFix  
 * RightClickHarvest  
-(Java only) Right click to harvest crops and replant them. Using a hoe covers a larger area.  
+(Java only) Right click to harvest crops and replant them. Using a hoe covers a larger area.
+* Scaffolding Drops Nearby  
+Broken scaffolding gather at the first broken block  
 * Unloaded Activity  
 When online but far away enough from simulated entities (e.g. crops or furnaces), those entities won't continue their actions.  
 This mod simulates the time the player is away and updates the entities accordingly.  
