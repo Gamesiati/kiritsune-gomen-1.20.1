@@ -186,6 +186,11 @@ hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "eaa0d06f31b5cd5bcac139b8b41ddd985831f35f7d633d12355d1d15735c3a84"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "ace9ce441fc72217675c9192315d9126e200341491f65058cf461f7e5a49a3e6"
 metafile = true
@@ -198,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "645622d16ed124e89e859ff3bf3df11503375d09d0970c3aa38d03bf2bdb3fdd"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "82bfd89ec4a0468023b4fcadbdb407fb9f991f80d9776e89d25a60e44fae2e7d"
 metafile = true
 
 [[files]]
