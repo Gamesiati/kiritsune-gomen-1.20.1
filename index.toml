@@ -31,6 +31,11 @@ hash = "4945c0aeeb4fdf7179e2419c2577780bae35bfa042cf2bd52885f6faf80406f7"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-sign-markers.pw.toml"
+hash = "914bfebc448db591ceb502df3ed83fed8639e34b20e6e16e638f5207abc8886e"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true

@@ -2,6 +2,7 @@ appleskin
 architectury-api
 balm
 bluemap
+bluemap-sign-markers
 c2me-fabric
 carpet
 chunky
