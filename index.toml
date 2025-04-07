@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "1950cc9e81e89586672663fb9b2c64b5770b3c6bedb2d4893165b1b7063899f2"
+hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true
 
 [[files]]
