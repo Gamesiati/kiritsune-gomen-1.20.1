@@ -21,6 +21,11 @@ hash = "221c3fe02674f1208273f0a1a376ae3a0090dacd9093a95e79988e5a4a495d2d"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "c2da1008c8108a56f1a12d50a23559841f4be5867fb8eb2d6098807daf3f2468"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true

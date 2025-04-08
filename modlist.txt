@@ -1,7 +1,9 @@
 alternate-current
+ambient-environment
 appleskin
 architectury-api
 balm
+betterf3
 bluemap
 bluemap-sign-markers
 c2me-fabric
@@ -20,6 +22,7 @@ dynamic-fps
 entityculling
 fabric-api
 fabric-language-kotlin
+fallingleaves
 ferrite-core
 floodgate
 geophilic
