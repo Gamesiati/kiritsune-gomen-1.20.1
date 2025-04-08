@@ -36,6 +36,11 @@ hash = "4945c0aeeb4fdf7179e2419c2577780bae35bfa042cf2bd52885f6faf80406f7"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
+
+[[files]]
 file = "mods/bluemap-sign-markers.pw.toml"
 hash = "914bfebc448db591ceb502df3ed83fed8639e34b20e6e16e638f5207abc8886e"
 metafile = true
