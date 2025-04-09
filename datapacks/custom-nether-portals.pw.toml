@@ -1,0 +1,8 @@
+name = "Custom Nether Portals"
+filename = "custom-nether-portals-v2.3.13-MC-1.21-1.21.4.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Gamesiati/kirisute-gomen-mc/raw/refs/heads/main/files/datapacks/custom%20nether%20portals%20v2.3.13%20(MC%201.21-1.21.4).zip"
+hash-format = "sha512"
+hash = "f76f6b3e5c90d06ebb19f591f08381ee7d3489d27ee71c51400615a12e7a9a11de65b3ec19dfa424af3571c9b63e3cb7e1dc5c8d42958042d576da84042a07a3"

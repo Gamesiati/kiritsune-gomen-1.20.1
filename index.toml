@@ -5,6 +5,16 @@ file = "credits.txt"
 hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
 
 [[files]]
+file = "datapacks/armor-statues.pw.toml"
+hash = "c807c45c9addc1a0765058abcadacb25a1a17deb0623a1985c4bf1a22d22a90a"
+metafile = true
+
+[[files]]
+file = "datapacks/custom-nether-portals.pw.toml"
+hash = "976b5f063cf299cefecf26b5a0cdb6243eca4fc15f4d62f84832f5cd4a3c1b70"
+metafile = true
+
+[[files]]
 file = "datapacks/dynamic-lights.pw.toml"
 hash = "977aac6c822343e328df984b939eaba3b8f58d5a3181b7cd6fd6032fc8913034"
 metafile = true

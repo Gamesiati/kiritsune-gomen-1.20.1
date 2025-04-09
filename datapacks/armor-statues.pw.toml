@@ -1,0 +1,8 @@
+name = "Armor Statues"
+filename = "armor-statues-v2.8.15-MC-1.21-1.21.4.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Gamesiati/kirisute-gomen-mc/raw/refs/heads/main/files/datapacks/armor%20statues%20v2.8.15%20(MC%201.21-1.21.4).zip"
+hash-format = "sha512"
+hash = "16cdeae6fcc030551d2c01d7c753704dd922523cfa2f74690e4942afe045bf42b9f7e98447ecca262ac20fab474da344faec8753f34b0fe2fc0bf86268dcd700"
