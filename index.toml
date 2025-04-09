@@ -270,6 +270,11 @@ hash = "ff26c7c9007bb25a092b1b7ed93c66973610fe0eeebee1f8f956dbdad5d5fe85"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "86ff9b67d90f046045619aa571df7bad909e480711c5d8b8967e3efca84ad16a"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "82bfd89ec4a0468023b4fcadbdb407fb9f991f80d9776e89d25a60e44fae2e7d"
 metafile = true

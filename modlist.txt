@@ -46,6 +46,7 @@ noisium
 placeholder-api
 rightclickharvest
 scaffolding-drops-nearby
+screenshot-to-clipboard
 snow-under-trees-remastered
 sodium
 spark
