@@ -41,6 +41,11 @@ Adjust whitelist as needed
     * Copy and paste:  
       ```https://github.com/Gamesiati/kirisute-gomen-mc/releases/latest/download/kirisute-gomen.zip```  
       in the Import bar
+       
+      Alternatively:
+        * Open the above link to download the .zip
+        * Select the browse option next to the Import bar to find and select the .zip
+    * Select OK
     * Start the instance
 ## Server-side mods/datapacks that affect gameplay (Non-vanilla/Vanilla+ features)
 
