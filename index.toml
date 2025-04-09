@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "credits.txt"
+hash = "d627e1b20336f5b262b794208b578b23f43f1f9d6fdf278bd07f48131aa38324"
+
+[[files]]
 file = "datapacks/dynamic-lights.pw.toml"
 hash = "977aac6c822343e328df984b939eaba3b8f58d5a3181b7cd6fd6032fc8913034"
 metafile = true
