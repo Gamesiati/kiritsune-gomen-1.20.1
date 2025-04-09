@@ -151,6 +151,11 @@ hash = "b9ccdada3af888348b8c8eb757ea3c528bd20db5f0beef533fd6c5eee651faa6"
 metafile = true
 
 [[files]]
+file = "mods/fsit.pw.toml"
+hash = "dbb0827e023f34d8221c4b25c05b3dedea956193c63ede1a56f53ccdc6bef800"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "c73fc3680d04bd42fafb0ac3e5e2dfc9e50cff44453ecf91b1bebca6da5107eb"
 metafile = true

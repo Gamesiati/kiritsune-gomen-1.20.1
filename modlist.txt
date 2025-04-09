@@ -25,6 +25,7 @@ fabric-language-kotlin
 fallingleaves
 ferrite-core
 floodgate
+fsit
 geophilic
 geyser
 image2map
