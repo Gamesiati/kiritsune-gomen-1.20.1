@@ -327,7 +327,7 @@ preserve = true
 
 [[files]]
 file = "server.properties.pw.toml"
-hash = "71956c545ed8579f2986b27d3bad1a003df3fba3024c44e388cec59928461736"
+hash = "beb09539f76f513d082af7c345f3fd15bd15bcb81dd6f9c96fe86488f8127994"
 metafile = true
 
 [[files]]

@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/Gamesiati/kirisute-gomen-mc/raw/refs/heads/main/files/server.properties"
 hash-format = "sha512"
-hash = "0f4e19a5901b23e64e5ccce20dab4b99b6a7daf3ae1f7fd4be1a8896a96cc5ce03a9c29f243709a8753d6599acff22453e4fa67f831bf902256952fe416b3aa6"
+hash = "3af313203a9783b11f97d298c42954bac006061233b24472e882cc88a5a4abeff104b222fdecb24752e3fa204ad87aa1994af1f9c49f39035d46671d94246fce"
