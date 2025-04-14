@@ -53,6 +53,7 @@ spark
 toggle-item-frames
 unilib
 unloaded-activity
+viabackwards
 viafabric
 viaversion
 yacl
