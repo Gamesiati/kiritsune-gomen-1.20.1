@@ -310,6 +310,11 @@ hash = "d6b857d2c020eea18f40aa4406c6a35432ef7f6ff97a3033232c7dfc559fa4ac"
 metafile = true
 
 [[files]]
+file = "mods/viaversion.pw.toml"
+hash = "210b7498c0d4011ff970c72ccb17d0d0002d3ac5c8295f424e24bf192890e09b"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true

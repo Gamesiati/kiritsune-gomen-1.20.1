@@ -54,5 +54,6 @@ toggle-item-frames
 unilib
 unloaded-activity
 viafabric
+viaversion
 yacl
 zoomify
