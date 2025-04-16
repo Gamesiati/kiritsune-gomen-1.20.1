@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "252b12d6a5548adcf3a18607a014f76e7906d76db09e7235652c39d2eccd5b2e"
+hash = "436268156001772bd0fa1c2043eae648dc1dbcab573dc41d2b156483267ef1b2"
 metafile = true
 
 [[files]]
@@ -312,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/viafabric.pw.toml"
 hash = "d6b857d2c020eea18f40aa4406c6a35432ef7f6ff97a3033232c7dfc559fa4ac"
+metafile = true
+
+[[files]]
+file = "mods/viarewind.pw.toml"
+hash = "8303896f4281052a28c5feed0397398160439b43e3f4b9ab6bb8aa0d26f7662c"
 metafile = true
 
 [[files]]

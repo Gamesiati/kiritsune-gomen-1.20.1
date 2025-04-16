@@ -55,6 +55,7 @@ unilib
 unloaded-activity
 viabackwards
 viafabric
+viarewind
 viaversion
 yacl
 zoomify
